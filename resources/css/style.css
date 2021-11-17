@@ -1,32 +1,31 @@
 body {
     background-color: black;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Verdana;
     text-align: center;
-}
-.title {
-    font-weight: normal;
-    font-size: 50px;
     color: white;
 }
 
-.dloadLink {
-    font-size: 16px;
-    color: aquamarine;
-}
-
-footer {
-    text-align: right;
-    color: grey;
+h1 {
+    font-weight: normal;
+    font-size: 50px;
 }
 
 h2 {
     font-weight: 300;
     font-size: 42px;
-    color: white;
+}
 
+a {
+    font-size: 16px;
+    color: aquamarine;
 }
 
 .tagline {
     font-size: 21px;
+    color: grey;
+}
+
+footer {
+    text-align: right;
     color: grey;
 }
